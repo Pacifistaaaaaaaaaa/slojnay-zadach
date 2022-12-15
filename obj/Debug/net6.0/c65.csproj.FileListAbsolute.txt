@@ -1,0 +1,15 @@
+C:\Users\Олег\Desktop\c65\bin\Debug\net6.0\c65.exe
+C:\Users\Олег\Desktop\c65\bin\Debug\net6.0\c65.deps.json
+C:\Users\Олег\Desktop\c65\bin\Debug\net6.0\c65.runtimeconfig.json
+C:\Users\Олег\Desktop\c65\bin\Debug\net6.0\c65.dll
+C:\Users\Олег\Desktop\c65\bin\Debug\net6.0\c65.pdb
+C:\Users\Олег\Desktop\c65\obj\Debug\net6.0\c65.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\c65\obj\Debug\net6.0\c65.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Desktop\c65\obj\Debug\net6.0\c65.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\c65\obj\Debug\net6.0\c65.AssemblyInfo.cs
+C:\Users\Олег\Desktop\c65\obj\Debug\net6.0\c65.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\c65\obj\Debug\net6.0\c65.dll
+C:\Users\Олег\Desktop\c65\obj\Debug\net6.0\refint\c65.dll
+C:\Users\Олег\Desktop\c65\obj\Debug\net6.0\c65.pdb
+C:\Users\Олег\Desktop\c65\obj\Debug\net6.0\c65.genruntimeconfig.cache
+C:\Users\Олег\Desktop\c65\obj\Debug\net6.0\ref\c65.dll
